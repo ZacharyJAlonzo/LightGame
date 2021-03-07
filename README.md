@@ -39,8 +39,16 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+
+Normal playthrough (none incorrect)
 ![FullPlaythrough](https://user-images.githubusercontent.com/62187352/110232487-8640c600-7ee3-11eb-84e4-9785cdd87803.gif)
+
+User Fails 3 times
+![Failing](https://user-images.githubusercontent.com/62187352/110232551-ed5e7a80-7ee3-11eb-8289-8785ce399442.gif)
+
+User Loses to Time
+![LosingToTime](https://user-images.githubusercontent.com/62187352/110232553-f51e1f00-7ee3-11eb-90cb-e8dbabc01cef.gif)
+
 
 
 ## Reflection Questions
