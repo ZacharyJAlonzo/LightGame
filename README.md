@@ -6,7 +6,7 @@ Submitted by: Zachary Alonzo
 
 Time spent: 8 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/~beryl-octagonal-colossus
 
 ## Required Functionality
 
