@@ -2,9 +2,9 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: Zachary Alonzo
 
-Time spent: **#** hours spent in total
+Time spent: 8 hours spent in total
 
 Link to project: (insert your link here, should start with https://glitch.com...)
 
@@ -73,7 +73,7 @@ If I had more time to work on this project, I would want to implement buttons fo
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Zachary Alonzo
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
