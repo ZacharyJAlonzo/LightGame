@@ -34,6 +34,7 @@ The following **optional** features are implemented:
 
 additional features:
 * [X] Success and Failure tones play after each turn
+* [X] Background flashes red or green to indicate success/failure
 
 ## Video Walkthrough
 
