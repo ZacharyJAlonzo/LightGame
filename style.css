@@ -1,0 +1,173 @@
+/* CSS files add styling rules to your content */
+
+body {
+  background-color:rgb(255,220,220);
+  font-family:'courier new', monospace;
+  margin: 2em;
+}
+
+h1 {
+  padding:2px;
+  font-style:none;
+  border:2px solid #222222;
+  max-width:195px;
+  color: #333333;
+}
+
+.hidden
+{
+  display:none;
+}
+
+
+div
+{
+  border-radius:20px;
+  padding:15px;
+  background-color:lightgrey;
+  max-width:420px;
+  min-width:205px;  
+}
+
+
+.buttonImage
+{
+  width:100%;
+  height:100%;
+}
+
+
+.normal
+{
+  background-color:rgb(255,220,220);
+}
+
+.wrong
+{
+  background-color:red;
+}
+
+.correct
+{
+  background-color:green;
+}
+
+#start
+{
+  font-size:24px;
+  font-family:'courier new', monospace;
+  border-radius:10px;
+  border:2px solid black;
+  width:100px;
+  height:50px;  
+  box-shadow: 0 8px rgba(0,0,0,0.2);
+  
+}
+
+#start:active
+{
+  background-color: #333333;
+  box-shadow: 0 4px rgba(0,0,0,0.2);
+  transform: translateY(4px);
+}
+
+#start:hover
+{
+  color:pink;
+  background-color:#333333
+}
+
+
+#stop
+{
+  font-size:24px;
+  font-family:'courier new', monospace;
+  border-radius:10px;
+  border:2px solid black;
+  width:100px;
+  height:50px;  
+  box-shadow: 0 8px rgba(0,0,0,0.2);
+}
+
+#stop:hover
+{
+  color:pink;
+  background-color:#333333
+}
+
+#stop:active
+{
+  background-color: #333333;
+  box-shadow: 0 4px rgba(0,0,0,0.2);
+  transform: translateY(4px);
+}
+
+#gameButtonArea > button
+{
+  border-radius:10px;
+  width:200px;
+  height:200px;
+  margin:2px;
+}
+
+
+#button1
+{
+  background:lightgreen;
+}
+
+#button1:active, #button1.lit
+{
+  background:mediumseagreen;
+  border-radius:10px;
+  outline:none;
+}
+
+
+#button2
+{
+  background:lightyellow;
+}
+#button2:active, #button2.lit
+{
+  background:khaki;
+}
+
+#button3
+{
+  background:lightCoral;
+}
+
+#button3:active, #button3.lit
+{
+  background:indianRed;
+}
+
+#button4
+{
+  background:lightblue;
+}
+#button4:active, #button4.lit
+{
+  background:cornflowerblue;
+}
+
+#button5
+{
+  background:orchid;
+}
+
+#button5:active, #button5.lit
+{
+  background:darkviolet;
+}
+
+#button6
+{
+  background:cyan;
+}
+
+#button6:active, #button6.lit
+{
+  background:deepskyblue;
+}
