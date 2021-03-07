@@ -32,6 +32,9 @@ The following **optional** features are implemented:
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 * [X] User has a limited amount of time to enter their guess on each turn
 
+additional features:
+* [X] Success and Failure tones play after each turn
+
 ## Video Walkthrough
 
 Full playthrough (no fails)
